@@ -66,6 +66,8 @@
         "iterator": "cpp",
         "utility": "cpp",
         "__memory": "cpp",
-        "version": "cpp"
+        "version": "cpp",
+        "deque": "cpp",
+        "stack": "cpp"
     }
 }
